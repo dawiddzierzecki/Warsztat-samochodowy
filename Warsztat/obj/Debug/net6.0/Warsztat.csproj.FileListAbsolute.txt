@@ -1,0 +1,15 @@
+D:\Users\dawid\OneDrive - Wojskowa Akademia Techniczna\WAT\WAT SEM 3\Programowanie współbieżne\Warsztat\Warsztat\bin\Debug\net6.0\Warsztat.exe
+D:\Users\dawid\OneDrive - Wojskowa Akademia Techniczna\WAT\WAT SEM 3\Programowanie współbieżne\Warsztat\Warsztat\bin\Debug\net6.0\Warsztat.deps.json
+D:\Users\dawid\OneDrive - Wojskowa Akademia Techniczna\WAT\WAT SEM 3\Programowanie współbieżne\Warsztat\Warsztat\bin\Debug\net6.0\Warsztat.runtimeconfig.json
+D:\Users\dawid\OneDrive - Wojskowa Akademia Techniczna\WAT\WAT SEM 3\Programowanie współbieżne\Warsztat\Warsztat\bin\Debug\net6.0\Warsztat.dll
+D:\Users\dawid\OneDrive - Wojskowa Akademia Techniczna\WAT\WAT SEM 3\Programowanie współbieżne\Warsztat\Warsztat\bin\Debug\net6.0\Warsztat.pdb
+D:\Users\dawid\OneDrive - Wojskowa Akademia Techniczna\WAT\WAT SEM 3\Programowanie współbieżne\Warsztat\Warsztat\obj\Debug\net6.0\Warsztat.csproj.AssemblyReference.cache
+D:\Users\dawid\OneDrive - Wojskowa Akademia Techniczna\WAT\WAT SEM 3\Programowanie współbieżne\Warsztat\Warsztat\obj\Debug\net6.0\Warsztat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\dawid\OneDrive - Wojskowa Akademia Techniczna\WAT\WAT SEM 3\Programowanie współbieżne\Warsztat\Warsztat\obj\Debug\net6.0\Warsztat.AssemblyInfoInputs.cache
+D:\Users\dawid\OneDrive - Wojskowa Akademia Techniczna\WAT\WAT SEM 3\Programowanie współbieżne\Warsztat\Warsztat\obj\Debug\net6.0\Warsztat.AssemblyInfo.cs
+D:\Users\dawid\OneDrive - Wojskowa Akademia Techniczna\WAT\WAT SEM 3\Programowanie współbieżne\Warsztat\Warsztat\obj\Debug\net6.0\Warsztat.csproj.CoreCompileInputs.cache
+D:\Users\dawid\OneDrive - Wojskowa Akademia Techniczna\WAT\WAT SEM 3\Programowanie współbieżne\Warsztat\Warsztat\obj\Debug\net6.0\Warsztat.dll
+D:\Users\dawid\OneDrive - Wojskowa Akademia Techniczna\WAT\WAT SEM 3\Programowanie współbieżne\Warsztat\Warsztat\obj\Debug\net6.0\refint\Warsztat.dll
+D:\Users\dawid\OneDrive - Wojskowa Akademia Techniczna\WAT\WAT SEM 3\Programowanie współbieżne\Warsztat\Warsztat\obj\Debug\net6.0\Warsztat.pdb
+D:\Users\dawid\OneDrive - Wojskowa Akademia Techniczna\WAT\WAT SEM 3\Programowanie współbieżne\Warsztat\Warsztat\obj\Debug\net6.0\Warsztat.genruntimeconfig.cache
+D:\Users\dawid\OneDrive - Wojskowa Akademia Techniczna\WAT\WAT SEM 3\Programowanie współbieżne\Warsztat\Warsztat\obj\Debug\net6.0\ref\Warsztat.dll
